@@ -23,7 +23,7 @@ Server:
 If server option is selected at the time of login, it will be redirected to the page which consists of  data about food ordered and by viewing the data the server will serves food to the particular table.
 Execution Plan:
 To execute my application ,I am providing a executable jar file and also code.
-One way to execute is download the jar file which I have provided and execute all sql commands in MySQL .these commands were provided in commands.txt file. after that click on jar file and execute  it. at the of login give the values for each role as given below to login
+One way to execute is download the jar file which I have provided and execute all sql commands in MySQL .these commands were provided in commands.sql file. after that click on jar file and execute  it. at the of login give the values for each role as given below to login
 Customer:
 Email: sreddy@gmail.com
 password: s
@@ -39,7 +39,7 @@ pwd:12345
 Server:
 User name: server
 Pwd:12345
-Another way to execute is to download the code and run in eclipse by adding external jar i.e, MySQL connector jar. before starting execution run all the sql commands which were in commands.txt file and login action for each role can be performed by using above data.
+Another way to execute is to download the code and run in eclipse by adding external jar i.e, MySQL connector jar. before starting execution run all the sql commands which were in commands.sql file and login action for each role can be performed by using above data.
 
 
 //thank you  for giving opportunity
